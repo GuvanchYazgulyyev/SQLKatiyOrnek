@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\bin\Debug\kayıt Programı ders 13.exe.config
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\bin\Debug\kayıt Programı ders 13.exe
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\bin\Debug\kayıt Programı ders 13.pdb
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt Programı ders 13.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt_Programı_ders_13.Form1.resources
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt_Programı_ders_13.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt Programı ders 13.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt Programı ders 13.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt Programı ders 13.exe
+C:\Users\Dell\source\repos\C# ders 13\kayıt Programı ders 13\kayıt Programı ders 13\obj\Debug\kayıt Programı ders 13.pdb
